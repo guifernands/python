@@ -11,4 +11,4 @@ if hora is int:
     else:
         print('[ERRO] Digite as horas corretamente.')
 else: 
-    print('[ERRO] Digite um número inteiiro.')
+    print('[ERRO] Digite um número inteiro.')
