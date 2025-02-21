@@ -1,1 +1,1 @@
-python -m debugpy --listen 5678 --wait-for-client nome_do_arquivo.py
+python -m debugpy --listen 5678 --wait-for-client ex022.py
